@@ -23,3 +23,13 @@ deployment passport.png
 package library.png
 Package Online shopping.jpeg
 sequence Online shopping.jpeg
+activity library management.png
+class MoneyTransfer.png
+collabartion MoneyTransfer.png
+communication OnlineShopping.png
+communication passport.png
+deployment moneyTranfer.png
+package MoneyTransfer.png
+package Onlineshopping.png
+package passport.png
+usecase MoneyTransfer.png
